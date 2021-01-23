@@ -1,0 +1,19 @@
+[0120/150528.180:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[0120/204241.410:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0120/204241.412:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0120/204241.411:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0120/204241.433:ERROR:exception_snapshot_win.cc(99)] thread ID 6416 not found in process
+[0120/204241.433:ERROR:exception_snapshot_win.cc(99)] thread ID 12452 not found in process
+[0120/204241.433:ERROR:exception_snapshot_win.cc(99)] thread ID 8180 not found in process
+[0120/204241.423:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0120/204241.434:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[0120/204241.418:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0120/204241.433:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[0120/204241.433:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[0120/204241.434:ERROR:exception_snapshot_win.cc(99)] thread ID 15648 not found in process
+[0120/204241.434:ERROR:exception_snapshot_win.cc(99)] thread ID 10920 not found in process
+[0120/204241.434:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[0120/204241.434:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[0120/204241.442:ERROR:process_info.cc(329)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0120/204241.442:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0120/204241.442:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
